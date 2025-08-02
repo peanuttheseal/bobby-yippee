@@ -14,7 +14,7 @@ struct ContentView: View {
                 .foregroundColor(.black)
 
             // Add more EmojiViews to decorate your Bobby
-            EmojiView(symbol: "🫠", size: 80, x: 0,  y: -130)
+            EmojiView(symbol: "🫠", size: 75, x: 0,  y: -130)
         }
         .frame(width: 200, height: 320)
     }
